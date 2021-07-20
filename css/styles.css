@@ -37,6 +37,16 @@ body {
     padding-top: 100px;
     position: relative;
   }
+
+  .Beach {
+    height: 24rem;
+    margin: 25px auto 0 auto;
+  }
+
+  .Graduation {
+    height: 24rem;
+    margin: 25px auto 0 auto;
+  }
   
   .Me3 {
     height: 11.25rem;
